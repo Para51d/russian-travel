@@ -1,0 +1,21 @@
+.intro {
+    margin: 92px auto 92px 148px;
+}
+
+@media (max-width: 1024px) {
+    .intro {
+        margin: 92px auto 92px 48px;
+    }
+}
+
+@media (max-width: 950px) {
+    .intro {
+        margin: 88px auto 88px 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .intro {
+        margin: 64px 16px 64px 16px;
+    }
+}

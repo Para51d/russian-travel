@@ -1,0 +1,12 @@
+.place__web {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+@media (max-width: 767px) {
+    .place__web {
+        margin: 0 16px 0 16px;
+    }
+}
