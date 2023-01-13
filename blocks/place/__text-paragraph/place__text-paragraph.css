@@ -1,8 +1,8 @@
-.place__text_paragraph {
+.place__text-paragraph {
     padding-bottom: 25px;
     margin: 0;
 }
 
-.place__text_paragraph:last-child {
+.place__text-paragraph:last-child {
     padding-bottom: 0;
 }
