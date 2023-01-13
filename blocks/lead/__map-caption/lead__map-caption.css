@@ -1,4 +1,4 @@
-.lead__map_caption {
+.lead__map-caption {
     font-size: 10px;
     font-weight: 400;
     line-height: 14px;
@@ -8,13 +8,13 @@
 }
 
 @media (max-width: 950px) {
-    .lead__map_caption {
+    .lead__map-caption {
         margin-left: 24px;
     }
 }
 
 @media (max-width: 767px) {
-    .lead__map_caption {
+    .lead__map-caption {
         margin-left: 16px;
     }
 }

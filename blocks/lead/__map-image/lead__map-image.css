@@ -1,24 +1,24 @@
-.lead__map_image {
+.lead__map-image {
     max-width: 984px;
     max-height: 615px;
 }
 
 @media (max-width: 1024px) {
-    .lead__map_image {
+    .lead__map-image {
         max-width: 928px;
         max-height: 580px;
     }
 }
 
 @media (max-width: 950px) {
-    .lead__map_image {
+    .lead__map-image {
         max-width: 768px;
         max-height: 480px;
     }
 }
 
 @media (max-width: 767px) {
-    .lead__map_image {
+    .lead__map-image {
         max-width: 302px;
         max-height: 200px;
     }
