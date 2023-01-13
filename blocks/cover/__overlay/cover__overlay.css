@@ -1,7 +1,7 @@
 .cover__overlay {
     text-decoration: none;
     color: #fff;
-    background: url(/../images/cover-trains.jpg);
+    background: url(../../../images/cover-trains.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
