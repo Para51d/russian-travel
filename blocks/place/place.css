@@ -5,7 +5,6 @@
     row-gap: 48px;
     column-gap: 40px;
     margin-bottom: 80px;
-    overflow: hidden;
 }
 
 @media (max-width: 1024px) {
@@ -15,7 +14,7 @@
     }
 }
 
-@media (max-width: 1020px) {
+@media (max-width: 950px) {
     .place {
         grid-template-columns: fit-content(340px) minmax(250px, 1fr);
         column-gap: 28px;
